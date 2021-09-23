@@ -1,9 +1,10 @@
 import './App.css';
+import NavBar from './components/layout/NavBar';
 
 function App() {
   return (
     <div className="App">
-      <h1>jeisson Gomez</h1>
+      <NavBar/>
     </div>
   );
 }
